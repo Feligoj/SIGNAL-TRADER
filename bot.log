@@ -1,0 +1,219 @@
+2025-05-25 21:41:33,307 - WARNING - WebSocket receive timeout, sending ping...
+2025-05-25 21:41:38,364 - WARNING - WebSocket receive timeout, sending ping...
+2025-05-25 21:41:41,465 - WARNING - WebSocket receive timeout, sending ping...
+2025-05-25 21:41:52,597 - WARNING - WebSocket receive timeout, sending ping...
+2025-05-25 21:42:33,627 - WARNING - WebSocket receive timeout, sending ping...
+2025-05-25 21:42:38,691 - WARNING - WebSocket receive timeout, sending ping...
+2025-05-25 21:42:41,830 - WARNING - WebSocket receive timeout, sending ping...
+2025-05-25 21:42:53,302 - WARNING - WebSocket receive timeout, sending ping...
+2025-05-25 21:43:34,039 - WARNING - WebSocket receive timeout, sending ping...
+2025-05-25 21:43:39,087 - WARNING - WebSocket receive timeout, sending ping...
+2025-05-25 21:43:42,130 - WARNING - WebSocket receive timeout, sending ping...
+2025-05-25 21:43:53,998 - WARNING - WebSocket receive timeout, sending ping...
+2025-05-25 21:44:34,320 - WARNING - WebSocket receive timeout, sending ping...
+2025-05-25 21:46:42,909 - INFO - Connecting to Deriv API...
+2025-05-25 21:46:42,910 - INFO - Using API token for authentication
+2025-05-25 21:46:44,500 - INFO - Successfully authenticated with Deriv API
+2025-05-25 21:46:44,500 - INFO - Connected successfully to Deriv API
+2025-05-25 21:46:44,503 - INFO - Loading previous signal timestamps...
+2025-05-25 21:46:44,508 - INFO - Fetching market data for R_10
+2025-05-25 21:46:44,508 - INFO - Fetching market data for R_10
+2025-05-25 21:46:45,101 - INFO - Successfully fetched real market data for R_10
+2025-05-25 21:46:45,133 - INFO - Weighted Score: 0.0%
+2025-05-25 21:46:45,134 - INFO - Adaptive duration: 17
+2025-05-25 21:46:45,135 - INFO - Fetching market data for R_25
+2025-05-25 21:46:45,135 - INFO - Fetching market data for R_25
+2025-05-25 21:46:45,656 - INFO - Successfully fetched real market data for R_25
+2025-05-25 21:46:45,670 - INFO - Weighted Score: 20.0%
+2025-05-25 21:46:45,672 - INFO - Adaptive duration: 8
+2025-05-25 21:46:45,673 - INFO - Fetching market data for R_50
+2025-05-25 21:46:45,673 - INFO - Fetching market data for R_50
+2025-05-25 21:46:46,217 - INFO - Successfully fetched real market data for R_50
+2025-05-25 21:46:46,238 - INFO - Weighted Score: 0.0%
+2025-05-25 21:46:46,238 - INFO - Fetching market data for R_75
+2025-05-25 21:46:46,238 - INFO - Fetching market data for R_75
+2025-05-25 21:46:46,700 - INFO - Successfully fetched real market data for R_75
+2025-05-25 21:46:46,718 - INFO - Weighted Score: 15.0%
+2025-05-25 21:46:46,745 - INFO - Connecting to Deriv API...
+2025-05-25 21:46:46,745 - INFO - Using API token for authentication
+2025-05-25 21:46:47,895 - INFO - Successfully authenticated with Deriv API
+2025-05-25 21:46:47,897 - INFO - Connected successfully to Deriv API
+2025-05-25 21:46:47,897 - INFO - Fetching market data for R_75
+2025-05-25 21:46:48,338 - INFO - Successfully fetched real market data for R_75
+2025-05-25 21:46:48,412 - INFO - Fetching market data for 1HZ10V
+2025-05-25 21:46:48,412 - INFO - Fetching market data for 1HZ10V
+2025-05-25 21:46:48,897 - INFO - Successfully fetched real market data for 1HZ10V
+2025-05-25 21:46:48,912 - INFO - Weighted Score: 5.0%
+2025-05-25 21:46:48,913 - INFO - Adaptive duration: 12
+2025-05-25 21:46:48,913 - INFO - Fetching market data for 1HZ25V
+2025-05-25 21:46:48,914 - INFO - Fetching market data for 1HZ25V
+2025-05-25 21:46:49,411 - INFO - Successfully fetched real market data for 1HZ25V
+2025-05-25 21:46:49,424 - INFO - Weighted Score: 0.0%
+2025-05-25 21:46:49,425 - INFO - Fetching market data for 1HZ50V
+2025-05-25 21:46:49,425 - INFO - Fetching market data for 1HZ50V
+2025-05-25 21:46:49,919 - INFO - Successfully fetched real market data for 1HZ50V
+2025-05-25 21:46:49,940 - INFO - Weighted Score: 30.0%
+2025-05-25 21:46:49,952 - INFO - Connecting to Deriv API...
+2025-05-25 21:46:49,952 - INFO - Using API token for authentication
+2025-05-25 21:46:51,590 - INFO - Successfully authenticated with Deriv API
+2025-05-25 21:46:51,591 - INFO - Connected successfully to Deriv API
+2025-05-25 21:46:51,591 - INFO - Fetching market data for 1HZ50V
+2025-05-25 21:46:52,101 - INFO - Successfully fetched real market data for 1HZ50V
+2025-05-25 21:46:52,124 - INFO - Fetching market data for 1HZ75V
+2025-05-25 21:46:52,126 - INFO - Fetching market data for 1HZ75V
+2025-05-25 21:46:52,595 - INFO - Successfully fetched real market data for 1HZ75V
+2025-05-25 21:46:52,614 - INFO - Weighted Score: 15.0%
+2025-05-25 21:46:52,624 - INFO - Connecting to Deriv API...
+2025-05-25 21:46:52,624 - INFO - Using API token for authentication
+2025-05-25 21:46:54,974 - INFO - Successfully authenticated with Deriv API
+2025-05-25 21:46:54,976 - INFO - Connected successfully to Deriv API
+2025-05-25 21:46:54,976 - INFO - Fetching market data for 1HZ75V
+2025-05-25 21:46:55,850 - INFO - Successfully fetched real market data for 1HZ75V
+2025-05-25 21:46:55,860 - INFO - Fetching market data for 1HZ100V
+2025-05-25 21:46:55,860 - INFO - Fetching market data for 1HZ100V
+2025-05-25 21:46:56,358 - INFO - Successfully fetched real market data for 1HZ100V
+2025-05-25 21:46:56,370 - INFO - Weighted Score: 0.0%
+2025-05-25 21:46:56,372 - INFO - Adaptive duration: 14
+2025-05-25 21:46:56,372 - INFO - Fetching market data for frxEURUSD
+2025-05-25 21:46:56,372 - INFO - Fetching market data for frxEURUSD
+2025-05-25 21:46:56,859 - INFO - Successfully fetched real market data for frxEURUSD
+2025-05-25 21:46:56,860 - INFO - Fetching market data for frxGBPUSD
+2025-05-25 21:46:56,860 - INFO - Fetching market data for frxGBPUSD
+2025-05-25 21:46:57,315 - INFO - Successfully fetched real market data for frxGBPUSD
+2025-05-25 21:46:57,315 - INFO - Fetching market data for frxUSDJPY
+2025-05-25 21:46:57,315 - INFO - Fetching market data for frxUSDJPY
+2025-05-25 21:46:57,823 - INFO - Successfully fetched real market data for frxUSDJPY
+2025-05-25 21:46:57,823 - INFO - Fetching market data for frxAUDUSD
+2025-05-25 21:46:57,824 - INFO - Fetching market data for frxAUDUSD
+2025-05-25 21:46:58,307 - INFO - Successfully fetched real market data for frxAUDUSD
+2025-05-25 21:46:58,307 - INFO - Fetching market data for frxUSDCHF
+2025-05-25 21:46:58,308 - INFO - Fetching market data for frxUSDCHF
+2025-05-25 21:46:58,814 - INFO - Successfully fetched real market data for frxUSDCHF
+2025-05-25 21:46:58,815 - INFO - Fetching market data for frxUSDCAD
+2025-05-25 21:46:58,815 - INFO - Fetching market data for frxUSDCAD
+2025-05-25 21:46:59,414 - INFO - Successfully fetched real market data for frxUSDCAD
+2025-05-25 21:46:59,414 - INFO - Fetching market data for frxEURGBP
+2025-05-25 21:46:59,415 - INFO - Fetching market data for frxEURGBP
+2025-05-25 21:46:59,880 - INFO - Successfully fetched real market data for frxEURGBP
+2025-05-25 21:46:59,880 - INFO - Fetching market data for frxEURJPY
+2025-05-25 21:46:59,880 - INFO - Fetching market data for frxEURJPY
+2025-05-25 21:47:00,331 - INFO - Successfully fetched real market data for frxEURJPY
+2025-05-25 21:47:00,331 - INFO - Fetching market data for frxGBPJPY
+2025-05-25 21:47:00,332 - INFO - Fetching market data for frxGBPJPY
+2025-05-25 21:47:00,780 - INFO - Successfully fetched real market data for frxGBPJPY
+2025-05-25 21:47:00,780 - INFO - Fetching market data for frxAUDJPY
+2025-05-25 21:47:00,780 - INFO - Fetching market data for frxAUDJPY
+2025-05-25 21:47:01,268 - INFO - Successfully fetched real market data for frxAUDJPY
+2025-05-25 21:47:01,268 - INFO - Fetching market data for frxEURAUD
+2025-05-25 21:47:01,268 - INFO - Fetching market data for frxEURAUD
+2025-05-25 21:47:01,712 - INFO - Successfully fetched real market data for frxEURAUD
+2025-05-25 21:49:25,725 - INFO - Connection closed
+2025-05-25 21:49:29,465 - INFO - 🚀 Starting Deriv Signal Bot (VIX Analysis)
+2025-05-25 21:49:29,466 - INFO - ⚙️ Initializing connections and services
+2025-05-25 21:49:29,482 - INFO - Connecting to Deriv API...
+2025-05-25 21:49:29,482 - INFO - Using API token for authentication
+2025-05-25 21:49:31,773 - INFO - Successfully authenticated with Deriv API
+2025-05-25 21:49:31,776 - INFO - Connected successfully to Deriv API
+2025-05-25 21:49:31,776 - INFO - ✅ Connected & Authorized to Deriv API
+2025-05-25 21:49:31,776 - INFO - Loading previous signal timestamps...
+2025-05-25 21:49:31,776 - INFO - ✅ Signal analyzer initialized
+2025-05-25 21:49:31,776 - INFO - 🔍 Scanning for VIX signals...
+2025-05-25 21:49:31,776 - INFO - Fetching market data for R_10
+2025-05-25 21:49:31,776 - INFO - Fetching market data for R_10
+2025-05-25 21:49:34,371 - INFO - Successfully fetched real market data for R_10
+2025-05-25 21:49:34,418 - INFO - Weighted Score: 10.0%
+2025-05-25 21:49:34,425 - INFO - Adaptive duration: 15
+2025-05-25 21:49:34,425 - INFO - Fetching market data for R_25
+2025-05-25 21:49:34,425 - INFO - Fetching market data for R_25
+2025-05-25 21:49:35,089 - INFO - Successfully fetched real market data for R_25
+2025-05-25 21:49:35,109 - INFO - Weighted Score: 20.0%
+2025-05-25 21:49:35,110 - INFO - Adaptive duration: 7
+2025-05-25 21:49:35,110 - INFO - Fetching market data for R_50
+2025-05-25 21:49:35,110 - INFO - Fetching market data for R_50
+2025-05-25 21:49:35,636 - INFO - Successfully fetched real market data for R_50
+2025-05-25 21:49:35,655 - INFO - Blocked: ❌ Not enough confirmations (need 2) or score too low (min 60)
+2025-05-25 21:49:35,657 - INFO - Weighted Score: 0.0%
+2025-05-25 21:49:35,657 - INFO - Fetching market data for R_75
+2025-05-25 21:49:35,657 - INFO - Fetching market data for R_75
+2025-05-25 21:49:36,381 - INFO - Successfully fetched real market data for R_75
+2025-05-25 21:49:36,396 - INFO - Weighted Score: 35.0%
+2025-05-25 21:49:36,411 - INFO - Connecting to Deriv API...
+2025-05-25 21:49:36,412 - INFO - Using API token for authentication
+2025-05-25 21:49:37,829 - INFO - Successfully authenticated with Deriv API
+2025-05-25 21:49:37,831 - INFO - Connected successfully to Deriv API
+2025-05-25 21:49:37,832 - INFO - Fetching market data for R_75
+2025-05-25 21:49:38,378 - INFO - Successfully fetched real market data for R_75
+2025-05-25 21:49:38,393 - INFO - Fetching market data for 1HZ10V
+2025-05-25 21:49:38,394 - INFO - Fetching market data for 1HZ10V
+2025-05-25 21:49:39,761 - INFO - Successfully fetched real market data for 1HZ10V
+2025-05-25 21:49:39,774 - INFO - Weighted Score: 5.0%
+2025-05-25 21:49:39,774 - INFO - Adaptive duration: 8
+2025-05-25 21:49:39,774 - INFO - Fetching market data for 1HZ25V
+2025-05-25 21:49:39,774 - INFO - Fetching market data for 1HZ25V
+2025-05-25 21:49:40,285 - INFO - Successfully fetched real market data for 1HZ25V
+2025-05-25 21:49:40,300 - INFO - Weighted Score: 5.0%
+2025-05-25 21:49:40,302 - INFO - Adaptive duration: 12
+2025-05-25 21:49:40,303 - INFO - Fetching market data for 1HZ50V
+2025-05-25 21:49:40,303 - INFO - Fetching market data for 1HZ50V
+2025-05-25 21:49:40,802 - INFO - Successfully fetched real market data for 1HZ50V
+2025-05-25 21:49:40,814 - INFO - Weighted Score: 30.0%
+2025-05-25 21:49:40,834 - INFO - Connecting to Deriv API...
+2025-05-25 21:49:40,834 - INFO - Using API token for authentication
+2025-05-25 21:49:42,542 - INFO - Successfully authenticated with Deriv API
+2025-05-25 21:49:42,544 - INFO - Connected successfully to Deriv API
+2025-05-25 21:49:42,545 - INFO - Fetching market data for 1HZ50V
+2025-05-25 21:49:43,063 - INFO - Successfully fetched real market data for 1HZ50V
+2025-05-25 21:49:43,073 - INFO - Fetching market data for 1HZ75V
+2025-05-25 21:49:43,073 - INFO - Fetching market data for 1HZ75V
+2025-05-25 21:49:43,565 - INFO - Successfully fetched real market data for 1HZ75V
+2025-05-25 21:49:43,575 - INFO - Weighted Score: 30.0%
+2025-05-25 21:49:43,590 - INFO - Connecting to Deriv API...
+2025-05-25 21:49:43,591 - INFO - Using API token for authentication
+2025-05-25 21:49:45,191 - INFO - Successfully authenticated with Deriv API
+2025-05-25 21:49:45,192 - INFO - Connected successfully to Deriv API
+2025-05-25 21:49:45,192 - INFO - Fetching market data for 1HZ75V
+2025-05-25 21:49:45,679 - INFO - Successfully fetched real market data for 1HZ75V
+2025-05-25 21:49:45,693 - INFO - Fetching market data for 1HZ100V
+2025-05-25 21:49:45,694 - INFO - Fetching market data for 1HZ100V
+2025-05-25 21:49:46,252 - INFO - Successfully fetched real market data for 1HZ100V
+2025-05-25 21:49:46,265 - INFO - Weighted Score: 0.0%
+2025-05-25 21:49:46,266 - INFO - Adaptive duration: 14
+2025-05-25 21:49:46,266 - INFO - Fetching market data for frxEURUSD
+2025-05-25 21:49:46,266 - INFO - Fetching market data for frxEURUSD
+2025-05-25 21:49:46,709 - INFO - Successfully fetched real market data for frxEURUSD
+2025-05-25 21:49:46,709 - INFO - Fetching market data for frxGBPUSD
+2025-05-25 21:49:46,709 - INFO - Fetching market data for frxGBPUSD
+2025-05-25 21:49:47,334 - INFO - Successfully fetched real market data for frxGBPUSD
+2025-05-25 21:49:47,334 - INFO - Fetching market data for frxUSDJPY
+2025-05-25 21:49:47,335 - INFO - Fetching market data for frxUSDJPY
+2025-05-25 21:49:47,793 - INFO - Successfully fetched real market data for frxUSDJPY
+2025-05-25 21:49:47,793 - INFO - Fetching market data for frxAUDUSD
+2025-05-25 21:49:47,793 - INFO - Fetching market data for frxAUDUSD
+2025-05-25 21:49:48,234 - INFO - Successfully fetched real market data for frxAUDUSD
+2025-05-25 21:49:48,234 - INFO - Fetching market data for frxUSDCHF
+2025-05-25 21:49:48,234 - INFO - Fetching market data for frxUSDCHF
+2025-05-25 21:49:48,736 - INFO - Successfully fetched real market data for frxUSDCHF
+2025-05-25 21:49:48,737 - INFO - Fetching market data for frxUSDCAD
+2025-05-25 21:49:48,737 - INFO - Fetching market data for frxUSDCAD
+2025-05-25 21:49:49,404 - INFO - Successfully fetched real market data for frxUSDCAD
+2025-05-25 21:49:49,406 - INFO - Fetching market data for frxEURGBP
+2025-05-25 21:49:49,406 - INFO - Fetching market data for frxEURGBP
+2025-05-25 21:49:49,882 - INFO - Successfully fetched real market data for frxEURGBP
+2025-05-25 21:49:49,882 - INFO - Fetching market data for frxEURJPY
+2025-05-25 21:49:49,882 - INFO - Fetching market data for frxEURJPY
+2025-05-25 21:49:50,323 - INFO - Successfully fetched real market data for frxEURJPY
+2025-05-25 21:49:50,323 - INFO - Fetching market data for frxGBPJPY
+2025-05-25 21:49:50,323 - INFO - Fetching market data for frxGBPJPY
+2025-05-25 21:49:50,773 - INFO - Successfully fetched real market data for frxGBPJPY
+2025-05-25 21:49:50,774 - INFO - Fetching market data for frxAUDJPY
+2025-05-25 21:49:50,774 - INFO - Fetching market data for frxAUDJPY
+2025-05-25 21:49:51,278 - INFO - Successfully fetched real market data for frxAUDJPY
+2025-05-25 21:49:51,278 - INFO - Fetching market data for frxEURAUD
+2025-05-25 21:49:51,278 - INFO - Fetching market data for frxEURAUD
+2025-05-25 21:49:51,798 - INFO - Successfully fetched real market data for frxEURAUD
+2025-05-25 21:49:51,798 - INFO - ❌ 0 signals generated | Avg Score: 6.8% | Total Candles: 1000
+2025-05-25 21:49:51,800 - INFO - ❌ 0 signals generated
+2025-05-25 21:49:51,800 - INFO - ⏱️ Waiting for next scan cycle (5 minutes)
+2025-05-25 21:52:08,312 - INFO - 🛑 Bot stopped by user
+2025-05-25 21:52:08,327 - INFO - Connection closed
+2025-05-25 21:52:08,328 - INFO - ✅ Closed API connection
